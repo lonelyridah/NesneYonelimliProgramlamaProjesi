@@ -1,0 +1,1 @@
+SELECT * FROM klasik.kitap_adi;

@@ -1,0 +1,1 @@
+SELECT * FROM tarih.kitap_adi;

@@ -1,0 +1,1 @@
+SELECT * FROM felsefe.kitap_adi;

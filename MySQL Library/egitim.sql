@@ -1,0 +1,1 @@
+SELECT * FROM egitim.kitap_adi;
